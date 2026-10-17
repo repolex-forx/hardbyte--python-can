@@ -1,0 +1,11 @@
+{
+  "org": "hardbyte",
+  "repo": "python-can",
+  "versions": [
+    {
+      "commit": "b4f82abede25ff83376be793a2935c41f81c3869",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:42:25.807156+00:00"
+    }
+  ]
+}
