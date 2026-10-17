@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hardbyte/python-can/commit/b4f82abede25ff83376be793a2935c41f81c3869",
       "git:hexsha": "b4f82abede25ff83376be793a2935c41f81c3869",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hardbyte/python-can/commit/243d94a5b00fb379552603e3ca2852344cd3d2f9",
